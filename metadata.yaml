@@ -1,0 +1,26 @@
+_repo: Partant-pour-la-Syrie_70904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mazière, Pierre la
+    gutenberg_agent_id: '55989'
+    url: http://www.gutenberg.org/2009/agents/55989
+description: ''
+gutenberg_issued: '2023-06-03'
+identifiers:
+  gutenberg: '70904'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1411060
+pgterms:marc905: 20230422003043lamazire
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bLibrairie Baudinière, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Partant pour la Syrie
+url: http://www.gutenberg.org/ebooks/70904
